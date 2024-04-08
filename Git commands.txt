@@ -1,0 +1,27 @@
+Git Adding New User: 
+
+	git config --global user.name "Github User Name"
+	git config --global user.email "your.email@example.com"
+
+	after adding new git user, if getting error to work with private repos:
+		 git clone https://username@github.com/username/repository.git
+
+	     eg. git clone https://shruti2906@github.com/shruti2906/testPrivateRepo.git
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Git Stash: 
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Git Merge: 
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Git push: 
+
+
+
+
+
+
